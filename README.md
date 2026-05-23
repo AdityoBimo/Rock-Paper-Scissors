@@ -18,7 +18,7 @@ To run this project locally, follow these simple steps:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/AdityoBimo/Rock-Paper-Scissors
-cd Rock-Paper-Scissors'''
+cd Rock-Paper-Scissors```
 
 🕹️ How to Play
 The game starts with both hands in a neutral Rock position.
